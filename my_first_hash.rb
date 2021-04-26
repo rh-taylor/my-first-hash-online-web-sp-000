@@ -6,11 +6,6 @@ def my_hash
     "Pullman" => "His Dark Materials"
     "Collins" => "The Hunger Games Trilogy"
   }
-
-
-
-
-  
 end
 
 
