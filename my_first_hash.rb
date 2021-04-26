@@ -4,7 +4,7 @@ def my_hash
     "Tolkien" => "Lord of the Rings",
     "Carey" => "The Rampart Trilogy"
     "Pullman" => "His Dark Materials"
-    
+    "Collins" => "The Hunger Games Trilogy"
   }
 
 
